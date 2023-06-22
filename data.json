@@ -18,5 +18,14 @@
   "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
   "price":170,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg"
+  },
+   {
+  "id":"Complete interior detail - Large Trucks/SUVs",
+  "categories":["complete interior detail"],
+  "title":"Complete interior detail - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/interior-car-detail-mcallen-texas/",
+  "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
+  "price":200,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg"
   }
 ]
