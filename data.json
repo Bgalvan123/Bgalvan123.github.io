@@ -198,5 +198,32 @@
   "description":"Crystal-clear Headlight Restoration and protection. Professionally restores your headlights to brilliant clarity.",
   "price":110,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/HeadlightRestorationBlueCarSmallest.jpeg"
+  },
+   {
+  "id":"Engine Bay Restoration - Cars/Small SUV’s/Small Trucks",
+  "categories":["Engine Bay Restoration"],
+  "title":"Engine Bay Restoration - Cars/Small SUV’s/Small Trucks",
+  "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
+  "description":"Process of cleaning and restoring your vehicle’s engine bay to a sleek, tidy and well-maintained look.",
+  "price":80,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
+  },
+  {
+  "id":"Engine Bay Restoration - Large Trucks, SUV’s",
+  "categories":["Engine Bay Restoration"],
+  "title":"Engine Bay Restoration - Large Trucks, SUV’s",
+  "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
+  "description":"Process of cleaning and restoring your vehicle’s engine bay to a sleek, tidy and well-maintained look.",
+  "price":110,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
+  },
+  {
+  "id":"Engine Bay Restoration - XL Trucks, XL SUV’s, Minivans",
+  "categories":["Engine Bay Restoration"],
+  "title":"Engine Bay Restoration - XL Trucks, XL SUV’s, Minivans",
+  "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
+  "description":"Process of cleaning and restoring your vehicle’s engine bay to a sleek, tidy and well-maintained look.",
+  "price":135,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
   }
 ]
