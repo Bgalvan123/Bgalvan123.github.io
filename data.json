@@ -180,5 +180,23 @@
   "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
   "price":460,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
+  },
+   {
+  "id":"Headlight restoration - One headlight",
+  "categories":["Headlight restoration"],
+  "title":"Headlight restoration - One headlight",
+  "link":"https://lionautodetail.com/headlight-restoration/",
+  "description":"Crystal-clear Headlight Restoration and protection. Professionally restores your headlights to brilliant clarity.",
+  "price":60,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/HeadlightRestorationBlueCarSmallest.jpeg"
+  },
+   {
+  "id":"Headlight restoration - Both headlights",
+  "categories":["Headlight restoration"],
+  "title":"Headlight restoration - Both headlights",
+  "link":"https://lionautodetail.com/headlight-restoration/",
+  "description":"Crystal-clear Headlight Restoration and protection. Professionally restores your headlights to brilliant clarity.",
+  "price":110,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/HeadlightRestorationBlueCarSmallest.jpeg"
   }
 ]
