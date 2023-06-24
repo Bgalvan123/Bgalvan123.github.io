@@ -13,7 +13,7 @@
   {
   "id":"Complete interior detail - Small Trucks/SUVs",
   "categories":["complete interior detail"],
-  "title":"Complete interior detail - Small Trucks/SUVs",
+  "title":"Complete interior detail - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/interior-car-detail-mcallen-texas/",
   "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
   "price":170,
@@ -27,5 +27,113 @@
   "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
   "price":200,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg"
+  },
+  {
+  "id":"Complete interior detail - XL Trucks/XL SUVs/Minivans",
+  "categories":["complete interior detail"],
+  "title":"Complete interior detail - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/interior-car-detail-mcallen-texas/",
+  "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
+  "price":230,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg"
+  },
+  {
+  "id":"Complete interior detail - 14-16 Passenger Vans",
+  "categories":["complete interior detail"],
+  "title":"Complete interior detail - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/interior-car-detail-mcallen-texas/",
+  "description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
+  "price":230,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg"
+  },
+  {
+  "id":"Silver lion detail package - Coupes/Sedan cars",
+  "categories":["Silver lion detail package"],
+  "title":"Silver lion detail package - Coupes/Sedan cars",
+  "link":"https://lionautodetail.com/silver-lion-detail-package/",
+  "description":"The Silver Lion Detail Package comes with a Complete Exterior Detail, and a Basic Interior Cleaning.",
+  "price":170,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
+  },
+  {
+  "id":"Silver lion detail package - Small Trucks/SUVs",
+  "categories":["Silver lion detail package"],
+  "title":"Silver lion detail package - Small Trucks/Small SUVs",
+  "link":"https://lionautodetail.com/silver-lion-detail-package/",
+  "description":"The Silver Lion Detail Package comes with a Complete Exterior Detail, and a Basic Interior Cleaning.",
+  "price":200,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
+  },
+  {
+  "id":"Silver lion detail package - Large Trucks/SUVs",
+  "categories":["Silver lion detail package"],
+  "title":"Silver lion detail package - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/silver-lion-detail-package/",
+  "description":"The Silver Lion Detail Package comes with a Complete Exterior Detail, and a Basic Interior Cleaning.",
+  "price":240,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
+  },
+  {
+  "id":"Silver lion detail package - XL Trucks/XL SUVs/Minivans",
+  "categories":["Silver lion detail package"],
+  "title":"Silver lion detail package - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/silver-lion-detail-package/",
+  "description":"The Silver Lion Detail Package comes with a Complete Exterior Detail, and a Basic Interior Cleaning.",
+  "price":270,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
+  },
+  {
+  "id":"Silver lion detail package - 14-16 Passenger Vans",
+  "categories":["Silver lion detail package"],
+  "title":"Silver lion detail package - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/silver-lion-detail-package/",
+  "description":"The Silver Lion Detail Package comes with a Complete Exterior Detail, and a Basic Interior Cleaning.",
+  "price":300,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
+  },
+   {
+  "id":"Deluxe detail package - Coupes/Sedan cars",
+  "categories":["Deluxe detail package"],
+  "title":"Deluxe detail package - Coupes/Sedan cars",
+  "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
+  "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
+  "price":240,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
+  },
+  {
+  "id":"Deluxe detail package - Small Trucks/SUVs",
+  "categories":["Deluxe detail package"],
+  "title":"Deluxe detail package - Small Trucks/Small SUVs",
+  "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
+  "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
+  "price":270,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
+  },
+  {
+  "id":"Deluxe detail package - Large Trucks/SUVs",
+  "categories":["Deluxe detail package"],
+  "title":"Deluxe detail package - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
+  "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
+  "price":300,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
+  },
+  {
+  "id":"Deluxe detail package - XL Trucks/XL SUVs/Minivans",
+  "categories":["Deluxe detail package"],
+  "title":"Deluxe detail package - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
+  "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
+  "price":330,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
+  },
+  {
+  "id":"Deluxe detail package - 14-16 Passenger Vans",
+  "categories":["Deluxe detail package"],
+  "title":"Deluxe detail package - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
+  "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
+  "price":360,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
   }
 ]
