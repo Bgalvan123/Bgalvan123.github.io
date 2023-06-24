@@ -135,5 +135,50 @@
   "description":"This package contains both a Complete Interior Detail AND a Complete Exterior Detail.",
   "price":360,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
+  },
+  {
+  "id":"Golden lion detail package - Coupes/Sedan cars",
+  "categories":["Golden lion detail package"],
+  "title":"Golden lion detail package - Coupes/Sedan cars",
+  "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
+  "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
+  "price":310,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
+  },
+  {
+  "id":"Golden lion detail package - Small Trucks/SUVs",
+  "categories":["Golden lion detail package"],
+  "title":"Golden lion detail package - Small Trucks/SUVs",
+  "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
+  "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
+  "price":340,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
+  },
+  {
+  "id":"Golden lion detail package - Large Trucks/SUVs",
+  "categories":["Golden lion detail package"],
+  "title":"Golden lion detail package - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
+  "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
+  "price":375,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
+  },
+  {
+  "id":"Golden lion detail package - XL Trucks/XL SUVs/Minivans",
+  "categories":["Golden lion detail package"],
+  "title":"Golden lion detail package - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
+  "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
+  "price":400,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
+  },
+  {
+  "id":"Golden lion detail package - 14-16 Passenger Vans",
+  "categories":["Golden lion detail package"],
+  "title":"Golden lion detail package - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
+  "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
+  "price":460,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
   }
 ]
