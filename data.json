@@ -234,5 +234,50 @@
   "description":"Odor Removal utilizing an Ozone Treatment. This odor removal service is performed after we finish our Complete Interior Detail.",
   "price":90,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2021/08/OzoneGeneratorStockPhotoEDITED.jpg"
+  },
+  {
+  "id":"One-step Paint Correction & Scratch Removal - Coupes/Sedan cars",
+  "categories":["One-step Paint Correction & Scratch Removal"],
+  "title":"One-step Paint Correction & Scratch Removal - Coupes/Sedan cars",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":325,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
+  },
+  {
+  "id":"One-step Paint Correction & Scratch Removal - Small Trucks/SUVs",
+  "categories":["One-step Paint Correction & Scratch Removal"],
+  "title":"One-step Paint Correction & Scratch Removal - Small Trucks/SUVs",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":390,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
+  },
+  {
+  "id":"One-step Paint Correction & Scratch Removal - Large Trucks/SUVs",
+  "categories":["One-step Paint Correction & Scratch Removal"],
+  "title":"One-step Paint Correction & Scratch Removal - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":475,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
+  },
+  {
+  "id":"One-step Paint Correction & Scratch Removal - XL Trucks/XL SUVs/Minivans",
+  "categories":["One-step Paint Correction & Scratch Removal"],
+  "title":"One-step Paint Correction & Scratch Removal - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":525,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
+  },
+   {
+  "id":"One-step Paint Correction & Scratch Removal - 14-16 Passenger Vans",
+  "categories":["One-step Paint Correction & Scratch Removal"],
+  "title":"One-step Paint Correction & Scratch Removal - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":625,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
   }
 ]
