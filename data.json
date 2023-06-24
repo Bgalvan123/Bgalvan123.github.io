@@ -225,5 +225,14 @@
   "description":"Process of cleaning and restoring your vehicle’s engine bay to a sleek, tidy and well-maintained look.",
   "price":135,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
+  },
+  {
+  "id":"Odor removal",
+  "categories":["Odor removal"],
+  "title":"Odor removal",
+  "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
+  "description":"Odor Removal utilizing an Ozone Treatment. This odor removal service is performed after we finish our Complete Interior Detail.",
+  "price":90,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2021/08/OzoneGeneratorStockPhotoEDITED.jpg"
   }
 ]
