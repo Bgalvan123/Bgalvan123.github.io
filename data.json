@@ -11,7 +11,7 @@
   "inventory_policy":1
   },
   {
-  "id":"Complete interior detail - Small Trucks/SUVs",
+  "id":"Complete interior detail - Small Trucks/Small SUVs",
   "categories":["complete interior detail"],
   "title":"Complete interior detail - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/interior-car-detail-mcallen-texas/",
@@ -56,7 +56,7 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ExteriorDetailDeepBlueReflectionSmallest-1.jpeg"
   },
   {
-  "id":"Silver lion detail package - Small Trucks/SUVs",
+  "id":"Silver lion detail package - Small Trucks/Small SUVs",
   "categories":["Silver lion detail package"],
   "title":"Silver lion detail package - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/silver-lion-detail-package/",
@@ -101,7 +101,7 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/ReflectiveSuvAfterPaintCorrectionSmallest.jpeg"
   },
   {
-  "id":"Deluxe detail package - Small Trucks/SUVs",
+  "id":"Deluxe detail package - Small Trucks/Small SUVs",
   "categories":["Deluxe detail package"],
   "title":"Deluxe detail package - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/deluxe-interior-exterior-auto-detailing/",
@@ -146,9 +146,9 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/LexusExteriorDetailMatteFinishSmallest-1-scaled.jpeg"
   },
   {
-  "id":"Golden lion detail package - Small Trucks/SUVs",
+  "id":"Golden lion detail package - Small Trucks/Small SUVs",
   "categories":["Golden lion detail package"],
-  "title":"Golden lion detail package - Small Trucks/SUVs",
+  "title":"Golden lion detail package - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/golden-package-interior-exterior-engine-detailing/",
   "description":"Comes with 3 main services: A Complete Interior Detail, Complete Exterior Detail, and an Engine Bay Restoration.",
   "price":340,
@@ -209,7 +209,7 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
   },
   {
-  "id":"Engine Bay Restoration - Large Trucks, SUV’s",
+  "id":"Engine Bay Restoration - Large Trucks/SUV’s",
   "categories":["Engine Bay Restoration"],
   "title":"Engine Bay Restoration - Large Trucks, SUV’s",
   "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
@@ -218,7 +218,7 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/EngineBayRestorationBeforeAfterJeepSmallest.jpeg"
   },
   {
-  "id":"Engine Bay Restoration - XL Trucks, XL SUV’s, Minivans",
+  "id":"Engine Bay Restoration - XL Trucks/XL SUV’s/Minivans",
   "categories":["Engine Bay Restoration"],
   "title":"Engine Bay Restoration - XL Trucks, XL SUV’s, Minivans",
   "link":"https://lionautodetail.com/additional-auto-detailing-services-mcallen/",
@@ -245,9 +245,9 @@
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
   },
   {
-  "id":"One-step Paint Correction & Scratch Removal - Small Trucks/SUVs",
+  "id":"One-step Paint Correction & Scratch Removal - Small Trucks/Small SUVs",
   "categories":["One-step Paint Correction & Scratch Removal"],
-  "title":"One-step Paint Correction & Scratch Removal - Small Trucks/SUVs",
+  "title":"One-step Paint Correction & Scratch Removal - Small Trucks/Small SUVs",
   "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
   "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
   "price":390,
@@ -279,5 +279,50 @@
   "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
   "price":625,
   "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/PaintCorrectionBlackPaintImageSmallest.jpeg"
+  },
+   {
+  "id":"Two-step Paint Correction & Scratch Removal - Coupes/Sedan cars",
+  "categories":["Two-step Paint Correction & Scratch Removal"],
+  "title":"Two-step Paint Correction & Scratch Removal - Coupes/Sedan cars",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":525,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/MercedesPaintCorrectionReflectionSmall.jpeg"
+  },
+   {
+  "id":"Two-step Paint Correction & Scratch Removal - Small Trucks/Small SUVs",
+  "categories":["Two-step Paint Correction & Scratch Removal"],
+  "title":"Two-step Paint Correction & Scratch Removal - Small Trucks/Small SUVs",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":590,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/MercedesPaintCorrectionReflectionSmall.jpeg"
+  },
+   {
+  "id":"Two-step Paint Correction & Scratch Removal - Large Trucks/SUVs",
+  "categories":["Two-step Paint Correction & Scratch Removal"],
+  "title":"Two-step Paint Correction & Scratch Removal - Large Trucks/SUVs",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":675,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/MercedesPaintCorrectionReflectionSmall.jpeg"
+  },
+   {
+  "id":"Two-step Paint Correction & Scratch Removal - XL Trucks/XL SUVs/Minivans",
+  "categories":["Two-step Paint Correction & Scratch Removal"],
+  "title":"Two-step Paint Correction & Scratch Removal - XL Trucks/XL SUVs/Minivans",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":725,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/MercedesPaintCorrectionReflectionSmall.jpeg"
+  },
+   {
+  "id":"Two-step Paint Correction & Scratch Removal - 14-16 Passenger Vans",
+  "categories":["Two-step Paint Correction & Scratch Removal"],
+  "title":"Two-step Paint Correction & Scratch Removal - 14-16 Passenger Vans",
+  "link":"https://lionautodetail.com/paint-correction-scratch-removal-mcallen-texas/",
+  "description":"Removes scratches and swirls from paint. Restores and rejuvenates the vehicle’s original paintwork.",
+  "price":825,
+  "image_link":"https://lionautodetail.com/wp-content/uploads/2023/05/MercedesPaintCorrectionReflectionSmall.jpeg"
   }
 ]
